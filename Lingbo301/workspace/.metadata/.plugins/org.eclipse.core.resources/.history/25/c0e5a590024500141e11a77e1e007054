@@ -1,0 +1,92 @@
+package com.example.todolist;
+
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.EditText;
+import android.widget.ListView;
+
+public class MainActivity extends Activity {
+	
+	private EditText MainText;
+	private ListView listview;
+	private ArrayList<Event> Events;
+	private ArrayList<Event> archivedEvents;
+	private ArrayList<String> Summary;
+	
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+		MainText = (EditText)findViewById(R.id.body);
+		listview = (ListView) findViewById(R.id.todoListView);
+	}
+	
+	protected void onStart(){
+		super.onStart();
+		Events=new ArrayList<Event>();
+		archivedEvents=new ArrayList<Event>();
+		theSummary=new ArrayList<String>();
+		totalEvent=loadItems(Events, FILETODO,totalEvent);
+		totalArchItem=loadItems(archivedEvents, FILEARCH,totalArchItem);
+		summaryViewAdapter = new ArrayAdapter<String>(this, R.layout.summarylist, theSummary);
+		adaptertodo = new ListAdapter(this, Events);
+		adapterAr = new ListAdapter(this, archivedEvents);
+		String theText=read(FILETEXT);
+		bodyText.setText(theText);
+		listview.setAdapter(adaptertodo);
+	}	  
+
+	public void setsummary(){
+		String temp="";
+		int j;
+		int checkTodo=0;
+		int checkArItem=0;
+		
+		theSummary.clear();
+    	for (j=0;j<totalEvent;j++){
+    		if (Events.get(j).getChecked()){
+    			checkTodo+=1;
+    		}
+    	}
+    	for (j=0;j<totalArchItem;j++){
+    		if (archivedEvents.get(j).getChecked()){
+    			checkArItem+=1;
+    		}
+    	}
+    	temp="Total items: "+(totalEvent+totalArchItem);
+    	theSummary.add(temp);
+    	temp="TODO items: "+totalEvent;
+    	theSummary.add(temp);
+    	temp="TODO items checked: "+checkTodo;
+    	theSummary.add(temp);
+    	temp="TODO items left unchecked: "+(totalEvent-checkTodo);
+    	theSummary.add(temp);
+    	temp="Archived TODO items: "+totalArchItem;
+    	theSummary.add(temp);
+    	temp="Checked archived TODO items: "+checkArItem;
+    	theSummary.add(temp);
+    	temp="Unchecked archived TODO items: "+(totalArchItem-checkArItem);
+    	theSummary.add(temp);
+	}
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.main, menu);
+		return true;
+	}
+
+}

@@ -1,0 +1,11 @@
+package ca.ualberta.cs.lonelytwitter.data;
+
+import java.util.ArrayList;
+
+
+public interface IDataManager {
+	
+	public ArrayList<AbstractTweet> loadTweets();
+	public void saveTweets(List<AbstractTweet> lts);
+	
+}

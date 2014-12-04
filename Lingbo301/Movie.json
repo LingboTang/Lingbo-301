@@ -1,0 +1,35 @@
+GET movie/_search
+{
+   "query": {
+      "query_string": {
+         "query": "*"
+      }
+   }
+}
+    
+GET movie/_search
+{
+    "query": {
+        "query_string": {
+           "query": "2012",
+           "fields": ["year"]
+        }
+    }
+}
+    
+    
+POST movie/58
+{
+    "id":1,
+    "title":"The Dark Knight",
+    "director":"Christopher Nolan",
+    "year":2008,
+    "genres":["Action","Adventure"]
+}
+
+POST movie/58/_update
+{
+    "doc":{
+        "title":"This is an Update"
+    }
+}

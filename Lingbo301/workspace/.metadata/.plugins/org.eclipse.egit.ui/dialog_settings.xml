@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="/cshome/lingbo/git/lonelyTwitter/.git" key="GitSelectRepositoryPage.lastRepository"/>
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="file:////cshome/lingbo/lonelyTwitter"/>
+		<item value="https://github.com/aewilson-ua/lonelyTwitter.git"/>
+		<item value="https://github.com/LingboTang/LonelyTwitterRefactoring.git"/>
+		<item value="https://github.com/CMPUT301F14T16/QuestionAppProject.git"/>
+		<item value="file:////cshome/lingbo/QuestionAppProject"/>
+		<item value="file:////cshome/lingbo/elasticsearch"/>
+		<item value="file:////cshome/lingbo/AndroidElasticSearch"/>
+		<item value="https://github.com/LingboTang/Lab5-3.git"/>
+		<item value="https://github.com/LingboTang/LingboAs1TodoList"/>
+		<item value="https://github.com/guana/LonelyTwitter.git"/>
+	</list>
+</section>

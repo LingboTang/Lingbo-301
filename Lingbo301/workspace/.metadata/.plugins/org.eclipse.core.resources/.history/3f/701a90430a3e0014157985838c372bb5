@@ -1,0 +1,33 @@
+package ca.ualberta.cs.lonelytwitter.data;
+
+import java.util.Date;
+
+public class Starttweet extends AbstractTweet {
+
+	public Starttweet(Date tweetDate, String tweetBody) {
+		super();
+		this.tweetDate = tweetDate;
+		this.tweetBody = tweetBody;
+	}
+
+	public Date getTweetDate() {
+		return tweetDate;
+	}
+
+	public void setTweetDate(Date tweetDate) {
+		this.tweetDate = tweetDate;
+	}
+
+	public String getTweetBody() {
+		return tweetBody;
+	}
+
+	public void setTweetBody(String tweetBody) {
+		this.tweetBody = tweetBody;
+	}
+
+	public String toString() {
+		return tweetBody;
+	}
+	
+}

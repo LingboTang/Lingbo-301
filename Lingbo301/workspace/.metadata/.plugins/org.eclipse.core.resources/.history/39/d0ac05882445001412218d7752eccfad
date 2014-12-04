@@ -1,0 +1,51 @@
+package com.example.todolist;
+
+
+import java.io.FileInputStream;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.app.Activity;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.Toast;
+
+
+public class Email extends Activity{	
+    EditText address;
+	private static final String FEmail = "mail.sav";
+
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_email);
+        
+    }
+    public void send(View view){
+    	String theText="";
+        try {  
+            FileInputStream inputStream = openFileInput(FEmail);  
+            byte[] b = new byte[inputStream.available()];  
+            inputStream.read(b);  
+            theText= new String(b);  
+        } catch (Exception e) {  
+        }  
+
+        address   = (EditText)findViewById(R.id.emailAddress);
+
+        Intent emailIntent = new Intent(Intent.ACTION_SEND);
+        emailIntent.setType("message/rfc822");
+
+        emailIntent.putExtra(Intent.EXTRA_EMAIL, new String[]{address.getText().toString()}); 
+        emailIntent.putExtra(Intent.EXTRA_SUBJECT, "subject");
+        emailIntent.putExtra(Intent.EXTRA_TEXT, theText);
+     
+        try {
+            startActivity(Intent.createChooser(emailIntent, "Send mail..."));
+        } catch (android.content.ActivityNotFoundException ex) {
+            Toast.makeText(Email.this, "There are no email clients installed.", Toast.LENGTH_SHORT).show();
+        } 
+		Email.this.finish();
+
+    }
+
+}

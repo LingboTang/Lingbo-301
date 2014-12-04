@@ -1,0 +1,5 @@
+package IDataFileManager.java;
+
+public class IDataManager {
+
+}

@@ -1,0 +1,13 @@
+package ca.ualberta.cmput301f14t16.easya.Exceptions;
+
+public class OversizePictureException {
+	private static final long serialVersionUID = -245234523509234858L;
+
+	public OversizePictureException(){
+		
+	}
+	
+	public OversizePictureException(String message){
+		super(message);
+	}
+}

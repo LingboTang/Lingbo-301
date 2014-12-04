@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+opened,view,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.DebugView",1411617737997
+opened,view,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.VariableView",1411617738156
+started,bundle,com.android.ide.eclipse.ddms,22.0.5.v201307292155--757759,"com.android.ide.eclipse.ddms",1411617738285
+opened,view,com.android.ide.eclipse.ddms,22.0.5.v201307292155--757759,"com.android.ide.eclipse.ddms.views.LogCatView",1411617738420
+activated,perspective,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.DebugPerspective",1411617738512
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.perspectives.showPerspective",1411617738557
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.DebugPerspective",1411617738557
+started,bundle,org.eclipse.cdt.dsf,2.2.0.201202111925,"org.eclipse.cdt.dsf",1411617738622
+started,bundle,org.eclipse.cdt.dsf.gdb,4.0.2.201202111925,"org.eclipse.cdt.dsf.gdb",1411617738622
+started,bundle,org.eclipse.cdt.dsf.gdb.ui,2.2.1.201202111925,"org.eclipse.cdt.dsf.gdb.ui",1411617738623
+started,bundle,com.android.ide.eclipse.traceview,22.0.5.v201307292155--757759,"com.android.ide.eclipse.traceview",1411617741472
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1411617744721
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.perspectives.showPerspective",1411617744754
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1411617744754
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProblemView",1411617756370
+opened,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.SourceView",1411617758189
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.SourceView",1411617758223
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProblemView",1411617759845
+activated,view,com.android.ide.eclipse.ddms,22.0.5.v201307292155--757759,"com.android.ide.eclipse.ddms.views.LogCatView",1411617760393
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411617761188
+activated,view,com.android.ide.eclipse.ddms,22.0.5.v201307292155--757759,"com.android.ide.eclipse.ddms.views.LogCatView",1411617761236
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1411617763054
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.SourceView",1411617763452
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProblemView",1411617763808
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411617764455
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411617788030
+error,log,,,"Git team provider configuration has gone missing.",1411617788508
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411617788508
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411617789155
+error,log,,,"Git team provider configuration has gone missing.",1411617805465
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411617805465
+error,log,,,"Git team provider configuration has gone missing.",1411617806757
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1411617810365
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1411617819872
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411617821757
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1411617823626
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411617840404
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1411617845483
+started,bundle,org.eclipse.wst.common.frameworks,1.2.102.v201201190400,"org.eclipse.wst.common.frameworks",1411617848036
+started,bundle,org.eclipse.wst.common.emf,1.2.100.v201101101900,"org.eclipse.wst.common.emf",1411617848041
+started,bundle,org.eclipse.emf.ecore,2.7.0.v20120127-1122,"org.eclipse.emf.ecore",1411617848113
+started,bundle,org.eclipse.jem.util,2.1.100.v201103021400,"org.eclipse.jem.util",1411617848133
+started,bundle,org.eclipse.emf.ecore.xmi,2.7.0.v20120127-1122,"org.eclipse.emf.ecore.xmi",1411617848145
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.101.v201107140600,"org.eclipse.wst.common.emfworkbench.integration",1411617848146
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1411617848201
+started,bundle,org.eclipse.wst.common.modulecore,1.2.103.v201201190400,"org.eclipse.wst.common.modulecore",1411617848204
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1411617855236
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411617856864
+error,log,,,"Git team provider configuration has gone missing.",1411617879207
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411617879207
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1411617880385
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1411617882702
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411617887848
+opened,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411617889608
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411617889657
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411617889675
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411617891515
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411617894604
+error,log,,,"Git team provider configuration has gone missing.",1411617907398
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411617907398
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1411617912096
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1411617913648
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411617915451
+closed,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411617924365
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411617925451
+closed,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411617925451
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411617937480
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20111006_r372,"org.eclipse.jdt.debug",1411617937599
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui",1411617937632
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411617937659
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411617937705
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411617938156
+started,bundle,org.eclipse.core.variables,3.2.500.v20110928-1503,"org.eclipse.core.variables",1411617938197
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411617941416
+error,log,,,"Git team provider configuration has gone missing.",1411617967446
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411617967446
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110928-1453,"org.eclipse.jdt.junit.core",1411617967712
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110928-1453,"org.eclipse.jdt.junit",1411617967721
+started,bundle,com.android.ide.eclipse.ndk,22.0.5.v201307292155--757759,"com.android.ide.eclipse.ndk",1411617967738
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1411617970391
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1411617973636
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1411617983293
+started,bundle,org.eclipse.pde.core,3.7.1.v20120103_r372,"org.eclipse.pde.core",1411617985480
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411617987909
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411617994407
+error,log,,,"Git team provider configuration has gone missing.",1411618009371
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618009371
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618013530
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618026982
+error,log,,,"Git team provider configuration has gone missing.",1411618027188
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618027188
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1411618043454
+error,log,,,"",1411618043896
+error,log,,,"",1411618043898
+error,log,,,"",1411618043899
+error,log,,,"",1411618043900
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618062046
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618066523
+error,log,,,"Git team provider configuration has gone missing.",1411618079349
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618079350
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618096995
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.newWizard",1411618113675
+error,log,,,"Git team provider configuration has gone missing.",1411618113692
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618113692
+opened,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618114074
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618114156
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618117560
+error,log,,,"Git team provider configuration has gone missing.",1411618125848
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618125848
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618126157
+error,log,,,"Git team provider configuration has gone missing.",1411618126481
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618126482
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1411618131111
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1411618132846
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618136809
+closed,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618136819
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618139013
+opened,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618139195
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618139270
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618139303
+opened,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618140684
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618140739
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618140769
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618142145
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618144490
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618148178
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1411618150276
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.garbagecollector",1411618150294
+error,log,,,"Git team provider configuration has gone missing.",1411618150307
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618150307
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618151970
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618155074
+closed,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618155075
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618156288
+closed,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618156290
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618157621
+error,log,,,"Git team provider configuration has gone missing.",1411618179296
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618179296
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618181131
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618189503
+error,log,,,"Git team provider configuration has gone missing.",1411618198204
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618198204
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618198318
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618198407
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618201766
+error,log,,,"Git team provider configuration has gone missing.",1411618211644
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618211645
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618211976
+error,log,,,"Git team provider configuration has gone missing.",1411618213359
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618213359
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1411618215170
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1411618216336
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618221033
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618229748
+error,log,,,"Git team provider configuration has gone missing.",1411618242367
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618242367
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618243772
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618246830
+error,log,,,"Git team provider configuration has gone missing.",1411618257946
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618257946
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618258019
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618258122
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1411618261050
+started,bundle,org.eclipse.mylyn.java.tasks,3.7.1.v20120425-0100,"org.eclipse.mylyn.java.tasks",1411618262145
+started,bundle,org.tigris.subversion.clientadapter.javahl,1.6.17,"org.tigris.subversion.clientadapter.javahl",1411618262166
+started,bundle,org.tigris.subversion.clientadapter.svnkit,1.6.15,"org.tigris.subversion.clientadapter.svnkit",1411618262169
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1411618262280
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618263953
+error,log,,,"Git team provider configuration has gone missing.",1411618273148
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618273148
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618277019
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618277123
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618277150
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618280379
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618280398
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618282041
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618285505
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618287534
+error,log,,,"Git team provider configuration has gone missing.",1411618293603
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618293603
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618293677
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618293783
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1411618295826
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1411618300446
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618303309
+error,log,,,"Git team provider configuration has gone missing.",1411618311182
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618311182
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618312467
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618314614
+error,log,,,"Git team provider configuration has gone missing.",1411618323624
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618323624
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618323693
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618323763
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1411618325755
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1411618327478
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618337161
+error,log,,,"Git team provider configuration has gone missing.",1411618360990
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618360990
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618363085
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618368678
+error,log,,,"Git team provider configuration has gone missing.",1411618376018
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618376018
+opened,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618376296
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618376371
+activated,view,com.android.ide.eclipse.ddms,22.0.5.v201307292155--757759,"com.android.ide.eclipse.ddms.views.LogCatView",1411618378122
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618379131
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1411618381675
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1411618382701
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618383817
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618384480
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618386305
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618389220
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618392089
+error,log,,,"Git team provider configuration has gone missing.",1411618402782
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618402782
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618404491
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618404537
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1411618409307
+started,bundle,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.ui",1411618409352
+started,bundle,org.eclipse.jst.jsp.core,1.2.402.v201112071853,"org.eclipse.jst.jsp.core",1411618409374
+started,bundle,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.ui",1411618409380
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1411618410241
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618411131
+closed,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1411618411141
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618411419
+error,log,,,"Git team provider configuration has gone missing.",1411618425328
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618425328
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618430164
+error,log,,,"Git team provider configuration has gone missing.",1411618431134
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618431134
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618433751
+error,log,,,"Git team provider configuration has gone missing.",1411618435100
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618435100
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618436851
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618441849
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618441874
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618443342
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1411618449952
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.findReplace",1411618469072
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618469084
+error,log,,,"Git team provider configuration has gone missing.",1411618471376
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618471376
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.findReplace",1411618476721
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618476732
+error,log,,,"Git team provider configuration has gone missing.",1411618488458
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618488458
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1411618493240
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1411618495010
+started,bundle,org.eclipse.jst.j2ee.core,1.2.102.v201202090300,"org.eclipse.jst.j2ee.core",1411618495948
+started,bundle,org.eclipse.jem,2.0.501.v201111030500,"org.eclipse.jem",1411618495957

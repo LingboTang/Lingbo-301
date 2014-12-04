@@ -1,0 +1,10 @@
+package ca.ualberta.cs.lonelytwitter.data;
+
+public class DataFileManager {
+
+	//public
+	public DataFileManager() {
+		
+	}
+	
+}

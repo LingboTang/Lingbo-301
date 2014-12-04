@@ -1,0 +1,9 @@
+package ca.ualberta.cs.lonelytwitter.data;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+
+public class IDataManager {
+
+}

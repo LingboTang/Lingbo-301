@@ -1,0 +1,17 @@
+package ca.ualberta.cs.lonelytwitter.data;
+
+import java.util.Date;
+
+public abstract class AbstractTweet {
+	
+	private Date tweetDate;
+	private String tweetBody;
+	
+	public abstract Date getTweetDate();
+	public abstract void setTweetDate(Date tweetDate);
+	public abstract String getTweetBody();
+	public abstract void setTweetBody(String tweetBody);
+	public void getLength() {
+		return tweetBody.length)();
+	}
+}

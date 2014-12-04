@@ -1,0 +1,20 @@
+package ca.ualberta.cs.lonelytwitter.data;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import ca.ualberta.cs.lonelytwitter.Tweet;
+
+public class GsonFileDataManager implements IDataManager {
+
+	public ArrayList<Tweet> loadTweets() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void saveTweets(List<Tweet> lts) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

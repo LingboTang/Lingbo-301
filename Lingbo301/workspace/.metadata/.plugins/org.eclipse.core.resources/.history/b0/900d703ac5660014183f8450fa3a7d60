@@ -1,0 +1,38 @@
+package ca.ualberta.cmput301f14t16.easya.test;
+
+import junit.framework.TestCase;
+
+import java.io.IOException;
+
+import android.content.Context;
+
+import ca.ualberta.cmput301f14t16.easya.Controller.MainController;
+import ca.ualberta.cmput301f14t16.easya.Model.Pending;
+import ca.ualberta.cmput301f14t16.easya.Model.Data.ESClient;
+import ca.ualberta.cmput301f14t16.easya.View.MainActivity;
+import ca.ualberta.cmput301f14t16.easya.Model.Queue;
+import ca.ualberta.cmput301f14t16.easya.Model.Content;
+
+
+
+
+public class SubmitTest extends TestCase {
+	private Pending pending;
+	private Context ctx;
+	public boolean sumitedOffline = false;
+	private MainController mc;
+	private
+	
+	public void SubmitTest() {
+		ESClient es = new ESClient();
+		mc = new MainController(content) {
+			
+		}
+		if (Queue.getInstance().haveInternetConnection()) {
+			
+		}
+	}
+	
+	
+	
+}

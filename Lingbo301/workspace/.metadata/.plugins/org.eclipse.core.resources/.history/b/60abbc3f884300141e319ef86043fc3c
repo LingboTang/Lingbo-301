@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Marios says:</string>
+    <string name="app_name">LonelyTwitter</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="summary">Summary</string>
+    <string name="title_activity_summary">SummaryActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Number of Tweets">Number of Tweets</string>
+    <string name="Average Letancy">Average Letancy</string>
+    <string name="Average Length">Average Length</string>
+   
+
+</resources>

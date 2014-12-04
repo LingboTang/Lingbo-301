@@ -1,0 +1,24 @@
+package ca.ualberta.cmput301f14t16.easya.test;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import ca.ualberta.cmput301f14t16.easya.Model.MainModel;
+import ca.ualberta.cmput301f14t16.easya.Model.Reply;
+import ca.ualberta.cmput301f14t16.easya.Model.User;
+import junit.framework.TestCase;
+
+public class FavouriteTest extends TestCase {
+	private String picture;
+	private List<Reply> replies;
+	private List<String> favourites;
+	private List<String> upVotes;
+	private User user;
+	
+	public void setFavouriteTest() {
+		try {
+			setFavourite(user)
+		}
+	}
+	
+}

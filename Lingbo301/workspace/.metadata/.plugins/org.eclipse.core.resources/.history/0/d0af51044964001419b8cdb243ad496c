@@ -1,0 +1,9 @@
+package ca.ualberta.cmput301f14t16.easya.test;
+
+import ca.ualberta.cmput301f14t16.easya.Model.Pending;
+
+import junit.framework.TestCase;
+
+public class PendingTest extends TestCase {
+
+}
